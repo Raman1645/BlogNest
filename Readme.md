@@ -1,4 +1,4 @@
-# BlogVerse 📝
+# BlogNest 📝
 
 A modern, full-stack blog platform built with the MERN stack, designed for developers, writers, and content creators to share their thoughts and knowledge with the world.
 
@@ -87,8 +87,8 @@ BlogNest/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/blogverse.git
-   cd blogverse
+   git clone https://github.com/yourusername/blognest.git
+   cd blognest
    ```
 
 2. **Set up the backend**
@@ -225,4 +225,4 @@ If you have any questions or run into issues, please open an issue on GitHub or 
 
 ---
 
-**Happy Blogging with BlogVerse! 🎉**
+**Happy Blogging with BlogNest! 🎉**
