@@ -53,7 +53,6 @@ export const getProfile = async (req, res) => {
 // Get user profile
 export const getUserProfile = async (req, res) => {
   try {
-    console.log("User ID from token:", req.user?._id);
     const user = await User.findById(req.user._id).select("-password");
     const blogs = await Blog.find({ author: req.user._id });
 
